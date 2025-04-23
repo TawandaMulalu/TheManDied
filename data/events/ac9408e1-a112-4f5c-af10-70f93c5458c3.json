@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "e713dd46-d47c-4374-858b-95d1ee827cca": {
+      "label": "CNN Audio",
+      "is_offline": false,
+      "file_url": "https://ia600501.us.archive.org/34/items/soyinka-cnn/Soyinka%20CNN.mp3",
+      "duration": 1382,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Nobel Laureate Wole Soyinka reflects on his life’s work and the new film The Man Died (CNN African Voicemakers, 2024)",
+  "created_at": "2025-04-23T12:25:32.151Z",
+  "created_by": "TawandaMulalu",
+  "updated_at": "2025-04-23T12:25:32.151Z",
+  "updated_by": "TawandaMulalu"
+}
