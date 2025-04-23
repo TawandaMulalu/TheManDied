@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "dfc616ce-37db-4309-89b9-bae170005d5a",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-04-23T12:23:57.721Z",
   "created_by": "TawandaMulalu",
   "title": "Wole Soyinka Returns to Biafra, Pt 1. (BBC Documentary Podcast, 2007)",
   "slug": "wole-soyinka-returns-to-biafra-pt-1-bbc-do",
-  "updated_at": "2025-04-23T12:23:57.721Z",
+  "updated_at": "2025-04-23T12:27:15.673Z",
   "updated_by": "TawandaMulalu",
   "parent": "a28154b5-0620-47d8-9f16-24f71f98d6aa",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "dfc616ce-37db-4309-89b9-bae170005d5a"
   }
