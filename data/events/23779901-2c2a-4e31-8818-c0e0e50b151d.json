@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "3d2c5544-5673-4d65-9f46-fc80e65e5ec5": {
+      "label": "BBC 2",
+      "is_offline": false,
+      "file_url": "https://ia601808.us.archive.org/0/items/documentaries-2007-podcast-20071031-wole-soyinka-returns-to-biafra-part-two/Documentaries2007Podcast-20071031-WoleSoyinkaReturnsToBiafraPartTwo.mp3",
+      "duration": 1364,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Wole Soyinka Returns to Biafra, Pt 2. (BBC Documentary Podcast, 2007)",
+  "created_at": "2025-04-23T12:24:57.433Z",
+  "created_by": "TawandaMulalu",
+  "updated_at": "2025-04-23T12:24:57.433Z",
+  "updated_by": "TawandaMulalu"
+}
