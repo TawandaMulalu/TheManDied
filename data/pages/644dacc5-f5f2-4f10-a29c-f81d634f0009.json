@@ -9,14 +9,14 @@
       ]
     }
   ],
-  "title": "Home",
+  "title": "Introduction",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "home",
+  "slug": "introduction",
   "created_at": "2025-04-23T12:36:25.746Z",
   "created_by": "TawandaMulalu",
-  "updated_at": "2025-04-23T12:36:25.746Z",
+  "updated_at": "2025-04-23T12:38:04.346Z",
   "updated_by": "TawandaMulalu"
 }
