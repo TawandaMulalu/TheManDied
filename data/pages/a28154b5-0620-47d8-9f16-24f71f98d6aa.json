@@ -3,10 +3,10 @@
   "created_at": "2025-04-23T12:16:21.353Z",
   "created_by": "TawandaMulalu",
   "title": "Home Page",
-  "updated_at": "2025-04-23T12:29:24.772Z",
+  "updated_at": "2025-04-23T12:29:53.543Z",
   "updated_by": "TawandaMulalu",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   },
   "slug": "home-page"
